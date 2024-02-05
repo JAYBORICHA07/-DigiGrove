@@ -5,8 +5,8 @@ export const PRODUCT_CATEGORIES = [
         featured : [
             {
                 name : "Editor Picks",
-                href : '#',
-                imageSrc : '/nav/ui-kits/mixed.jpg'
+                href : "#",
+                imageSrc : "/nav/ui-kits/mixed.jpg",
             }
         ]
     }
